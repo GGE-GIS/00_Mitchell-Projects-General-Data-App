@@ -1,0 +1,657 @@
+{
+  "theme": {
+    "name": "FoldableTheme",
+    "styles": [
+      "black",
+      "cyan",
+      "green",
+      "default",
+      "red",
+      "purple",
+      "blue",
+      "yellow"
+    ],
+    "version": "2.6",
+    "sharedTheme": {
+      "isPortalSupport": true,
+      "useHeader": false,
+      "useLogo": false
+    }
+  },
+  "portalUrl": "http://greengo.maps.arcgis.com",
+  "appId": "QM3vs47usPKbmIbc",
+  "authorizedCrossOriginDomains": [],
+  "title": "Projects Basic Information",
+  "subtitle": "with Web AppBuilder for ArcGIS",
+  "keepAppState": true,
+  "logo": "data:image/png;base64,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",
+  "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
+  "links": [],
+  "widgetOnScreen": {
+    "widgets": [
+      {
+        "uri": "themes/FoldableTheme/widgets/HeaderController/Widget",
+        "position": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "height": 40,
+          "relativeTo": "browser"
+        },
+        "version": "2.6",
+        "id": "themes_FoldableTheme_widgets_HeaderController_Widget_42",
+        "name": "HeaderController"
+      },
+      {
+        "uri": "widgets/Scalebar/Widget",
+        "position": {
+          "left": 7,
+          "bottom": 25,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_Scalebar_Widget_43",
+        "name": "Scalebar"
+      },
+      {
+        "uri": "widgets/Search/Widget",
+        "position": {
+          "left": 55,
+          "top": 5,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_Search_Widget_44",
+        "name": "Search",
+        "config": {
+          "allPlaceholder": "",
+          "showInfoWindowOnSelect": true,
+          "sources": [
+            {
+              "layerId": "BirdsEye_2134",
+              "url": "https://services6.arcgis.com/09cI1bdeCwBmPgAY/arcgis/rest/services/BirdsEye/FeatureServer/0",
+              "name": "BirdsEye - Site Location",
+              "placeholder": "",
+              "searchFields": [
+                "Number",
+                "Name",
+                "Number_Name"
+              ],
+              "displayField": "Number_Name",
+              "exactMatch": false,
+              "searchInCurrentMapExtent": false,
+              "zoomScale": 50000,
+              "maxSuggestions": 6,
+              "maxResults": 6,
+              "type": "query"
+            },
+            {
+              "layerId": "Project_Locations_705",
+              "url": "https://services6.arcgis.com/09cI1bdeCwBmPgAY/arcgis/rest/services/Project_Locations/FeatureServer/0",
+              "name": "Project Locations",
+              "placeholder": "Search projects",
+              "searchFields": [
+                "PROJECT_NUMBER",
+                "LLC_NAME"
+              ],
+              "displayField": "PROJECT_NUMBER",
+              "exactMatch": false,
+              "searchInCurrentMapExtent": false,
+              "zoomScale": 25000,
+              "maxSuggestions": 6,
+              "maxResults": 6,
+              "type": "query"
+            },
+            {
+              "layerId": "NC_PROJECT_PARCLE_BOUNDARIES_FL_6949",
+              "url": "https://services6.arcgis.com/09cI1bdeCwBmPgAY/arcgis/rest/services/NC_PROJECT_PARCLE_BOUNDARIES_FL/FeatureServer/0",
+              "name": "Parcel Boundaries of Projects",
+              "placeholder": "Project #",
+              "searchFields": [
+                "PROJECT_NUMBER"
+              ],
+              "displayField": "PROJECT_NUMBER",
+              "exactMatch": false,
+              "searchInCurrentMapExtent": false,
+              "zoomScale": 50000,
+              "maxSuggestions": 6,
+              "maxResults": 6,
+              "type": "query"
+            },
+            {
+              "url": "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+              "name": "Esri World Geocoder",
+              "singleLineFieldName": "SingleLine",
+              "placeholder": "Esri World Geocoder",
+              "countryCode": "",
+              "zoomScale": 50000,
+              "maxSuggestions": 6,
+              "maxResults": 6,
+              "searchInCurrentMapExtent": false,
+              "enableLocalSearch": true,
+              "localSearchMinScale": 300000,
+              "localSearchDistance": 50000,
+              "type": "locator"
+            }
+          ]
+        }
+      },
+      {
+        "uri": "widgets/Coordinate/Widget",
+        "position": {
+          "left": 7,
+          "bottom": 5,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_Coordinate_Widget_45",
+        "name": "Coordinate"
+      },
+      {
+        "position": {
+          "left": 55,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "_46",
+        "name": "Share",
+        "version": "2.6",
+        "closeable": true,
+        "uri": "widgets/Share/Widget",
+        "config": {
+          "socialMedias": {
+            "email": true,
+            "facebook": false,
+            "twitter": false,
+            "googlePlus": true
+          }
+        }
+      },
+      {
+        "position": {
+          "left": 105,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "_47",
+        "name": "Select",
+        "version": "2.6",
+        "closeable": true,
+        "uri": "widgets/Select/Widget",
+        "config": {
+          "selectionColor": "#00FFFF",
+          "selectionMode": "partial",
+          "allowExport": true,
+          "geometryTypes": [
+            "POLYLINE",
+            "EXTENT",
+            "CIRCLE",
+            "POLYGON"
+          ]
+        }
+      },
+      {
+        "position": {
+          "left": 155,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "_48",
+        "version": "2.6",
+        "closeable": true,
+        "uri": "widgets/Draw/Widget",
+        "name": "Draw",
+        "config": {
+          "distanceUnits": [
+            {
+              "unit": "KILOMETERS",
+              "abbr": "km"
+            },
+            {
+              "unit": "MILES",
+              "abbr": "mi"
+            },
+            {
+              "unit": "METERS",
+              "abbr": "m"
+            },
+            {
+              "unit": "FEET",
+              "abbr": "ft"
+            },
+            {
+              "unit": "YARDS",
+              "abbr": "yd"
+            },
+            {
+              "unit": "NAUTICAL_MILES",
+              "abbr": "nm"
+            }
+          ],
+          "areaUnits": [
+            {
+              "unit": "SQUARE_KILOMETERS",
+              "abbr": "sq km"
+            },
+            {
+              "unit": "SQUARE_MILES",
+              "abbr": "sq mi"
+            },
+            {
+              "unit": "ACRES",
+              "abbr": "ac"
+            },
+            {
+              "unit": "HECTARES",
+              "abbr": "ha"
+            },
+            {
+              "unit": "SQUARE_METERS",
+              "abbr": "sq m"
+            },
+            {
+              "unit": "SQUARE_FEET",
+              "abbr": "sq ft"
+            },
+            {
+              "unit": "SQUARE_YARDS",
+              "abbr": "sq yd"
+            }
+          ],
+          "isOperationalLayer": false
+        }
+      },
+      {
+        "position": {
+          "left": 205,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "_49"
+      },
+      {
+        "position": {
+          "left": 255,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 2,
+        "id": "_50"
+      },
+      {
+        "uri": "widgets/OverviewMap/Widget",
+        "position": {
+          "right": 0,
+          "bottom": 0,
+          "zIndex": 1,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_OverviewMap_Widget_51",
+        "name": "OverviewMap"
+      },
+      {
+        "uri": "widgets/HomeButton/Widget",
+        "position": {
+          "left": 7,
+          "top": 75,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_HomeButton_Widget_52",
+        "name": "HomeButton"
+      },
+      {
+        "uri": "widgets/MyLocation/Widget",
+        "position": {
+          "left": 7,
+          "top": 110,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_MyLocation_Widget_53",
+        "name": "MyLocation"
+      },
+      {
+        "uri": "widgets/AttributeTable/Widget",
+        "version": "2.6",
+        "position": {
+          "relativeTo": "browser"
+        },
+        "id": "widgets_AttributeTable_Widget_54",
+        "name": "AttributeTable"
+      },
+      {
+        "uri": "widgets/Splash/Widget",
+        "visible": false,
+        "position": {
+          "relativeTo": "browser"
+        },
+        "version": "2.6",
+        "id": "widgets_Splash_Widget_55",
+        "name": "Splash"
+      },
+      {
+        "uri": "widgets/ZoomSlider/Widget",
+        "position": {
+          "top": 5,
+          "left": 7,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_ZoomSlider_Widget_56",
+        "name": "ZoomSlider"
+      },
+      {
+        "uri": "widgets/ExtentNavigate/Widget",
+        "visible": false,
+        "position": {
+          "top": 150,
+          "left": 7,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_ExtentNavigate_Widget_57",
+        "name": "ExtentNavigate"
+      },
+      {
+        "uri": "widgets/FullScreen/Widget",
+        "visible": false,
+        "position": {
+          "right": 8,
+          "top": 8,
+          "relativeTo": "map"
+        },
+        "version": "2.6",
+        "id": "widgets_FullScreen_Widget_58",
+        "name": "FullScreen"
+      }
+    ],
+    "panel": {
+      "uri": "jimu/OnScreenWidgetPanel",
+      "position": {
+        "relativeTo": "map"
+      }
+    }
+  },
+  "map": {
+    "3D": false,
+    "2D": true,
+    "position": {
+      "left": 0,
+      "top": 40,
+      "right": 0,
+      "bottom": 0
+    },
+    "itemId": "f9fb8739c9b4452a96c13d6387ff72f9",
+    "mapOptions": {},
+    "id": "map",
+    "portalUrl": "http://greengo.maps.arcgis.com",
+    "mapRefreshInterval": {
+      "useWebMapRefreshInterval": true
+    }
+  },
+  "widgetPool": {
+    "panel": {
+      "uri": "themes/FoldableTheme/panels/FoldablePanel/Panel",
+      "position": {
+        "top": 5,
+        "right": 5,
+        "bottom": 5,
+        "zIndex": 5,
+        "relativeTo": "map"
+      }
+    },
+    "widgets": [
+      {
+        "uri": "widgets/Legend/Widget",
+        "version": "2.6",
+        "id": "widgets_Legend_Widget_18",
+        "name": "Legend",
+        "index": 2
+      },
+      {
+        "uri": "widgets/LayerList/Widget",
+        "version": "2.6",
+        "id": "widgets_LayerList_Widget_19",
+        "name": "LayerList",
+        "index": 3
+      },
+      {
+        "name": "BasemapGallery",
+        "version": "2.6",
+        "uri": "widgets/BasemapGallery/Widget",
+        "index": 4,
+        "id": "widgets_BasemapGallery_Widget_36"
+      },
+      {
+        "name": "Bookmark",
+        "version": "2.6",
+        "uri": "widgets/Bookmark/Widget",
+        "index": 5,
+        "id": "widgets_Bookmark_Widget_37"
+      },
+      {
+        "name": "Directions",
+        "version": "2.6",
+        "uri": "widgets/Directions/Widget",
+        "index": 6,
+        "id": "widgets_Directions_Widget_39"
+      },
+      {
+        "name": "Measurement",
+        "version": "2.6",
+        "uri": "widgets/Measurement/Widget",
+        "index": 7,
+        "id": "widgets_Measurement_Widget_40"
+      },
+      {
+        "name": "Print",
+        "version": "2.6",
+        "uri": "widgets/Print/Widget",
+        "index": 8,
+        "id": "widgets_Print_Widget_41",
+        "config": {
+          "serviceURL": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+          "defaultTitle": "GreenGo Energy US, Inc.  Project Map",
+          "defaultAuthor": "GreenGo Energy US, Inc.",
+          "defaultCopyright": "GreenGo Energy US, Inc",
+          "defaultFormat": "PDF",
+          "defaultLayout": "A4 Portrait"
+        }
+      }
+    ],
+    "groups": []
+  },
+  "mobileLayout": {
+    "widgetOnScreen": {
+      "widgets": [
+        {
+          "uri": "themes/FoldableTheme/widgets/HeaderController/Widget",
+          "position": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "height": 40,
+            "relativeTo": "browser"
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/Scalebar/Widget",
+          "position": {
+            "left": 7,
+            "bottom": 40,
+            "relativeTo": "map"
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/Search/Widget",
+          "position": {
+            "left": 55,
+            "top": 5
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/Coordinate/Widget",
+          "position": {
+            "left": 7,
+            "bottom": 17,
+            "relativeTo": "map"
+          },
+          "version": "2.5"
+        },
+        {
+          "position": {
+            "left": 55,
+            "top": 45
+          }
+        },
+        {
+          "position": {
+            "left": 105,
+            "top": 45
+          }
+        },
+        {
+          "position": {
+            "left": 155,
+            "top": 45
+          }
+        },
+        {
+          "position": {
+            "left": 205,
+            "top": 45
+          }
+        },
+        {
+          "position": {
+            "left": 255,
+            "top": 45
+          }
+        },
+        {
+          "uri": "widgets/OverviewMap/Widget",
+          "position": {
+            "right": 0,
+            "bottom": 0,
+            "zIndex": 1
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/HomeButton/Widget",
+          "inPanel": false,
+          "position": {
+            "left": 7,
+            "top": 75
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/MyLocation/Widget",
+          "inPanel": false,
+          "position": {
+            "left": 7,
+            "top": 110
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/AttributeTable/Widget",
+          "version": "2.5",
+          "position": {
+            "relativeTo": "browser"
+          }
+        },
+        {
+          "uri": "widgets/Splash/Widget",
+          "visible": false,
+          "position": {
+            "relativeTo": "browser"
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/ZoomSlider/Widget",
+          "visible": true,
+          "position": {
+            "top": 5,
+            "left": 7
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/ExtentNavigate/Widget",
+          "visible": false,
+          "position": {
+            "top": 150,
+            "left": 7
+          },
+          "version": "2.5"
+        },
+        {
+          "uri": "widgets/FullScreen/Widget",
+          "visible": false,
+          "position": {
+            "right": 8,
+            "top": 8
+          },
+          "version": "2.5"
+        }
+      ]
+    },
+    "map": {
+      "position": {
+        "left": 0,
+        "top": 40,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    "widgetPool": {
+      "panel": {
+        "uri": "themes/FoldableTheme/panels/FoldablePanel/Panel",
+        "position": {
+          "top": 5,
+          "right": 5,
+          "bottom": 5,
+          "zIndex": 5
+        }
+      }
+    }
+  },
+  "loadingPage": {
+    "backgroundColor": "#508dca",
+    "backgroundImage": {
+      "visible": false
+    },
+    "loadingGif": {
+      "visible": true,
+      "uri": "configs/loading/images/predefined_loading_1.gif",
+      "width": 58,
+      "height": 29
+    }
+  },
+  "wabVersion": "2.6",
+  "isWebTier": false,
+  "httpProxy": {
+    "useProxy": true,
+    "alwaysUseProxy": false,
+    "url": "",
+    "rules": []
+  },
+  "dataSource": {
+    "dataSources": {},
+    "settings": {}
+  },
+  "logoLink": "",
+  "appItemId": "1397b188473e4c1aa114c2fa2eefcf3e"
+}
