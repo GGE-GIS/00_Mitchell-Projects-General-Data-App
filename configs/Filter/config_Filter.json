@@ -1,0 +1,35 @@
+{
+  "collapse": false,
+  "filters": [
+    {
+      "layerId": "Project_Locations_705",
+      "url": "https://services6.arcgis.com/09cI1bdeCwBmPgAY/arcgis/rest/services/Project_Locations/FeatureServer/0",
+      "name": "Has E911",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [
+          {
+            "fieldObj": {
+              "name": "E911_Address",
+              "label": "E911_Address",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIsNotBlank",
+            "valueObj": {
+              "isValid": true,
+              "type": "value",
+              "value": null
+            },
+            "interactiveObj": "",
+            "caseSensitive": false,
+            "expr": "E911_Address IS NOT NULL"
+          }
+        ],
+        "expr": "E911_Address IS NOT NULL"
+      },
+      "icon": "",
+      "enableMapFilter": true
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "serviceURL": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+  "defaultTitle": "GreenGo Energy US, Inc.  Project Map",
+  "defaultAuthor": "GreenGo Energy US, Inc.",
+  "defaultCopyright": "GreenGo Energy US, Inc.",
+  "defaultFormat": "PDF",
+  "defaultLayout": "A4 Portrait"
+}

@@ -1,0 +1,90 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": "Project_Locations_705",
+      "url": "https://services6.arcgis.com/09cI1bdeCwBmPgAY/arcgis/rest/services/Project_Locations/FeatureServer/0",
+      "name": "Project Locations",
+      "placeholder": "Search E911 addresses",
+      "searchFields": [
+        "E911_Address"
+      ],
+      "displayField": "E911_Address",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "BirdsEye_2134",
+      "url": "https://services6.arcgis.com/09cI1bdeCwBmPgAY/arcgis/rest/services/BirdsEye/FeatureServer/0",
+      "name": "BirdsEye - Site Location",
+      "placeholder": "",
+      "searchFields": [
+        "Number",
+        "Name",
+        "Number_Name"
+      ],
+      "displayField": "Number_Name",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "Project_Locations_705",
+      "url": "https://services6.arcgis.com/09cI1bdeCwBmPgAY/arcgis/rest/services/Project_Locations/FeatureServer/0",
+      "name": "Project Locations",
+      "placeholder": "Search projects",
+      "searchFields": [
+        "CENTERS_PROJECT_NUMBER",
+        "CENTERS_LLC_NAME",
+        "IC_Queue_Number",
+        "Docket_Number"
+      ],
+      "displayField": "CENTERS_PROJECT_NUMBER",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 25000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "NC_PROJECT_PARCLE_BOUNDARIES_FL_6949",
+      "url": "https://services6.arcgis.com/09cI1bdeCwBmPgAY/arcgis/rest/services/NC_PROJECT_PARCLE_BOUNDARIES_FL/FeatureServer/0",
+      "name": "Parcel Boundaries of Projects",
+      "placeholder": "Project #",
+      "searchFields": [
+        "PROJECT_NUMBER"
+      ],
+      "displayField": "PROJECT_NUMBER",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "url": "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "name": "Esri World Geocoder",
+      "singleLineFieldName": "SingleLine",
+      "placeholder": "Esri World Geocoder",
+      "countryCode": "",
+      "zoomScale": 50000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "searchInCurrentMapExtent": false,
+      "enableLocalSearch": true,
+      "localSearchMinScale": 300000,
+      "localSearchDistance": 50000,
+      "type": "locator"
+    }
+  ]
+}

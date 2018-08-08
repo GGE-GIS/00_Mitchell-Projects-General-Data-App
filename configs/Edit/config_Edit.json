@@ -1,0 +1,1856 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": true
+    },
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_5104"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "TYPE",
+            "label": "TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "label": "NOTES",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Area",
+            "label": "Shape__Area",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Area_2",
+            "label": "Shape__Area_2",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length_2",
+            "label": "Shape__Length_2",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Area_3",
+            "label": "Shape__Area_3",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length_3",
+            "label": "Shape__Length_3",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_9250"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "TYPE",
+            "label": "TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "label": "NOTES",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Area",
+            "label": "Shape__Area",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Area_2",
+            "label": "Shape__Area_2",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length_2",
+            "label": "Shape__Length_2",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Area_3",
+            "label": "Shape__Area_3",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length_3",
+            "label": "Shape__Length_3",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_499"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "TYPE",
+            "label": "TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ACTUAL_VOLTAGE",
+            "label": "ACTUAL_VOLTAGE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LINE_NAME",
+            "label": "LINE_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNER",
+            "label": "OWNER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CATEGORY",
+            "label": "CATEGORY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "label": "NOTES",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length_2",
+            "label": "Shape__Length_2",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length_3",
+            "label": "Shape__Length_3",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_5490"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "TYPE",
+            "label": "TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "label": "NOTES",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length_2",
+            "label": "Shape__Length_2",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length_3",
+            "label": "Shape__Length_3",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_5446"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "esrignss_receiver",
+            "label": "Receiver Name",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_rms",
+            "label": "Horizontal Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_v_rms",
+            "label": "Vertical Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_latitude",
+            "label": "Latitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_longitude",
+            "label": "Longitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_altitude",
+            "label": "Altitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_pdop",
+            "label": "PDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_hdop",
+            "label": "HDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_vdop",
+            "label": "VDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixtype",
+            "label": "Fix Type",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_correctionage",
+            "label": "Correction Age",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_stationid",
+            "label": "Station ID",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_numsats",
+            "label": "Number of Satellites",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixdatetime",
+            "label": "Fix Time",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_h_rms",
+            "label": "Average Horizontal Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_v_rms",
+            "label": "Average Vertical Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_positions",
+            "label": "Averaged Positions",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_stddev",
+            "label": "Standard Deviation (m)",
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_296"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "esrignss_receiver",
+            "label": "Receiver Name",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_rms",
+            "label": "Horizontal Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_v_rms",
+            "label": "Vertical Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_latitude",
+            "label": "Latitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_longitude",
+            "label": "Longitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_altitude",
+            "label": "Altitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_pdop",
+            "label": "PDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_hdop",
+            "label": "HDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_vdop",
+            "label": "VDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixtype",
+            "label": "Fix Type",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_correctionage",
+            "label": "Correction Age",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_stationid",
+            "label": "Station ID",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_numsats",
+            "label": "Number of Satellites",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixdatetime",
+            "label": "Fix Time",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_h_rms",
+            "label": "Average Horizontal Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_v_rms",
+            "label": "Average Vertical Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_positions",
+            "label": "Averaged Positions",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_stddev",
+            "label": "Standard Deviation (m)",
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_5503"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "esrignss_receiver",
+            "label": "Receiver Name",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_rms",
+            "label": "Horizontal Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_v_rms",
+            "label": "Vertical Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_latitude",
+            "label": "Latitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_longitude",
+            "label": "Longitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_altitude",
+            "label": "Altitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_pdop",
+            "label": "PDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_hdop",
+            "label": "HDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_vdop",
+            "label": "VDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixtype",
+            "label": "Fix Type",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_correctionage",
+            "label": "Correction Age",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_stationid",
+            "label": "Station ID",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_numsats",
+            "label": "Number of Satellites",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixdatetime",
+            "label": "Fix Time",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_h_rms",
+            "label": "Average Horizontal Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_v_rms",
+            "label": "Average Vertical Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_positions",
+            "label": "Averaged Positions",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_stddev",
+            "label": "Standard Deviation (m)",
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Field_Notes__Points__All_Sites_7990"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Name",
+            "label": "Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "label": "Category",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "label": "Location",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "label": "Date",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "label": "Comments",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "ESRIGNSS_RECEIVER",
+            "label": "Receiver Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_H_RMS",
+            "label": "Horizontal Accuracy (m)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_V_RMS",
+            "label": "Vertical Accuracy (m)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_LATITUDE",
+            "label": "Latitude",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_LONGITUDE",
+            "label": "Longitude",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_ALTITUDE",
+            "label": "Altitude",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_PDOP",
+            "label": "PDOP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_HDOP",
+            "label": "HDOP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_VDOP",
+            "label": "VDOP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_FIXTYPE",
+            "label": "Fix Type",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_CORRECTIONAGE",
+            "label": "Correction Age",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_STATIONID",
+            "label": "Station ID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_NUMSATS",
+            "label": "Number of Satellites",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_FIXDATETIME",
+            "label": "Fix Time",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_H_RMS",
+            "label": "Average Horizontal Accuracy (m)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_V_RMS",
+            "label": "Average Vertical Accuracy (m)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_POSITIONS",
+            "label": "Averaged Positions",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_H_STDDEV",
+            "label": "Standard Deviation (m)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CreationDate",
+            "label": "CreationDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Creator",
+            "label": "Creator",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "EditDate",
+            "label": "EditDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Editor",
+            "label": "Editor",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Field_Captured_Data_All_Sites_8323"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Name",
+            "label": "Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "label": "Category",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "label": "Location",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "label": "Date",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "label": "Comments",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "CreationDate",
+            "label": "CreationDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Creator",
+            "label": "Creator",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "EditDate",
+            "label": "EditDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Editor",
+            "label": "Editor",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Field_Captured_Data_All_Sites_4075"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Name",
+            "label": "Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "label": "Category",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "label": "Location",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "label": "Date",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "label": "Comments",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Shape__Area",
+            "label": "Shape__Area",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "CreationDate",
+            "label": "CreationDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Creator",
+            "label": "Creator",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "EditDate",
+            "label": "EditDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Editor",
+            "label": "Editor",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Site_1009_Notes_6418"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "ESRIGNSS_RECEIVER",
+            "label": "Receiver Name",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_H_RMS",
+            "label": "Horizontal Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_V_RMS",
+            "label": "Vertical Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_LATITUDE",
+            "label": "Latitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_LONGITUDE",
+            "label": "Longitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_ALTITUDE",
+            "label": "Altitude",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_PDOP",
+            "label": "PDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_HDOP",
+            "label": "HDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_VDOP",
+            "label": "VDOP",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_FIXTYPE",
+            "label": "Fix Type",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_CORRECTIONAGE",
+            "label": "Correction Age",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_STATIONID",
+            "label": "Station ID",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_NUMSATS",
+            "label": "Number of Satellites",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_FIXDATETIME",
+            "label": "Fix Time",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_H_RMS",
+            "label": "Average Horizontal Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_V_RMS",
+            "label": "Average Vertical Accuracy (m)",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_POSITIONS",
+            "label": "Averaged Positions",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_H_STDDEV",
+            "label": "Standard Deviation (m)",
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Site_1009_Notes_7308"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Name",
+            "label": "Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "label": "Category",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "label": "Location",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "label": "Date",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "label": "Comments",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "CreationDate",
+            "label": "CreationDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Creator",
+            "label": "Creator",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "EditDate",
+            "label": "EditDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Editor",
+            "label": "Editor",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Site_1009_Notes_8981"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Name",
+            "label": "Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "label": "Category",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "label": "Location",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "label": "Date",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "label": "Comments",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "Shape__Area",
+            "label": "Shape__Area",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "CreationDate",
+            "label": "CreationDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Creator",
+            "label": "Creator",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "EditDate",
+            "label": "EditDate",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Editor",
+            "label": "Editor",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Proposed_Easement_Paths_1732"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "PROJECT_NUMBER",
+            "label": "Project Number",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NAME",
+            "label": "Description",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Length (ft)",
+            "isEditable": null,
+            "visible": false
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Project_Locations_705"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "NC_PROJECT_PARCLE_BOUNDARIES_FL_6949"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "PARNO",
+            "label": "PARNO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ALTPARNO",
+            "label": "ALTPARNO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNNAME",
+            "label": "OWNNAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "IMPROVVAL",
+            "label": "IMPROVVAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LANDVAL",
+            "label": "LANDVAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARVAL",
+            "label": "PARVAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MAILADD",
+            "label": "MAILADD",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MUNIT",
+            "label": "MUNIT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MCITY",
+            "label": "MCITY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MSTATE",
+            "label": "MSTATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MZIP",
+            "label": "MZIP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SITEADD",
+            "label": "SITEADD",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUNIT",
+            "label": "SUNIT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SCITY",
+            "label": "SCITY",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GISACRES",
+            "label": "GISACRES",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STRUCT",
+            "label": "STRUCT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MULTISTRUC",
+            "label": "MULTISTRUC",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SALEDATE",
+            "label": "SALEDATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SALEDATETX",
+            "label": "SALEDATETX",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LEGDECFULL",
+            "label": "LEGDECFULL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARUSECODE",
+            "label": "PARUSECODE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARUSEDESC",
+            "label": "PARUSEDESC",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARUSECD2",
+            "label": "PARUSECD2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARUSEDSC2",
+            "label": "PARUSEDSC2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARVALTYPE",
+            "label": "PARVALTYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNTYPE",
+            "label": "OWNTYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "RECAREANO",
+            "label": "RECAREANO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "RECAREATX",
+            "label": "RECAREATX",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVISEDATE",
+            "label": "REVISEDATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCEREF",
+            "label": "SOURCEREF",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCEDATE",
+            "label": "SOURCEDATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCEDATX",
+            "label": "SOURCEDATX",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBDIVISIO",
+            "label": "SUBDIVISIO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NPARNO",
+            "label": "NPARNO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CNTYNAME",
+            "label": "CNTYNAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CNTYFIPS",
+            "label": "CNTYFIPS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STFIPS",
+            "label": "STFIPS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STCNTYFIPS",
+            "label": "STCNTYFIPS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GNISID",
+            "label": "GNISID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCEAGNT",
+            "label": "SOURCEAGNT",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TRANSFDATE",
+            "label": "TRANSFDATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDPREF",
+            "label": "MADDPREF",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDRNO",
+            "label": "MADDRNO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDSTNAME",
+            "label": "MADDSTNAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDSTR",
+            "label": "MADDSTR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDSTSUF",
+            "label": "MADDSTSUF",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDSTTYP",
+            "label": "MADDSTTYP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNFRST",
+            "label": "OWNFRST",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNLAST",
+            "label": "OWNLAST",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVDATETX",
+            "label": "REVDATETX",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVISEYEAR",
+            "label": "REVISEYEAR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDNO",
+            "label": "SADDNO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDPREF",
+            "label": "SADDPREF",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDSTNAME",
+            "label": "SADDSTNAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDSTR",
+            "label": "SADDSTR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDSTSUF",
+            "label": "SADDSTSUF",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDSTTYP",
+            "label": "SADDSTTYP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SSTATE",
+            "label": "SSTATE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STNAME",
+            "label": "STNAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBOWNTYPE",
+            "label": "SUBOWNTYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBSURFOWN",
+            "label": "SUBSURFOWN",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SZIP",
+            "label": "SZIP",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STRUCTNO",
+            "label": "STRUCTNO1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STRUCTYEAR",
+            "label": "STRUCTYEAR1",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNNAME2",
+            "label": "OWNNAME2",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PRESENTVAL",
+            "label": "PRESENTVAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MAPREF",
+            "label": "MAPREF",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PROJECT_NUMBER",
+            "label": "PROJECT_NUMBER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Area",
+            "label": "Shape__Area",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Proposed_Easement_Paths_7004"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": false
+          },
+          {
+            "fieldName": "PROJECT_NUMBER",
+            "label": "PROJECT_NUMBER",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NAME",
+            "label": "Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Shape__Length",
+            "label": "Shape__Length",
+            "isEditable": null,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "BirdsEye_2134"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Number",
+            "label": "Number",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Name",
+            "label": "Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Number_Name",
+            "label": "Project Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Lat",
+            "label": "Lat",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Long",
+            "label": "Long",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Lat_POI",
+            "label": "Lat_POI",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Long_POI",
+            "label": "Long_POI",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "BirdsEye_8400"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "Number",
+            "label": "Number",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Name",
+            "label": "Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Number_Name",
+            "label": "Project Name",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Lat",
+            "label": "Lat",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Long",
+            "label": "Long",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Lat_POI",
+            "label": "Lat_POI",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Long_POI",
+            "label": "Long_POI",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": false,
+    "autoApplyEditWhenGeometryIsMoved": true,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0
+  }
+}
