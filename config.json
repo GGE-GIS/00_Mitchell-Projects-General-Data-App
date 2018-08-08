@@ -140,11 +140,9 @@
         },
         "placeholderIndex": 1,
         "id": "_50",
-        "name": "Edit",
         "version": "2.6",
         "closeable": true,
-        "uri": "widgets/Edit/Widget",
-        "config": "configs/Edit/config_Edit.json"
+        "uri": ""
       },
       {
         "uri": "widgets/OverviewMap/Widget",
@@ -320,6 +318,15 @@
         "index": 8,
         "id": "widgets_Print_Widget_41",
         "config": "configs/Print/config_Print.json"
+      },
+      {
+        "name": "SmartEditor",
+        "version": "2.6",
+        "keepConfigAfterMapSwithched": false,
+        "uri": "widgets/SmartEditor/Widget",
+        "config": "configs/SmartEditor/config_SmartEditor.json",
+        "index": 10,
+        "id": "widgets_SmartEditor_Widget_59"
       }
     ],
     "groups": []

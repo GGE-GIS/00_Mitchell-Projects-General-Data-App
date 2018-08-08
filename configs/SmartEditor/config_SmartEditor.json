@@ -1,0 +1,1707 @@
+{
+  "editor": {
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_5104"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "TYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_9250"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "TYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_499"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "TYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ACTUAL_VOLTAGE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LINE_NAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNER",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CATEGORY",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_5490"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "TYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_5446"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "TYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_receiver",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_v_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_latitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_longitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_altitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_pdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_hdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_vdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixtype",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_correctionage",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_stationid",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_numsats",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixdatetime",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_h_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_v_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_positions",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_stddev",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_296"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "TYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NOTES",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_receiver",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_v_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_latitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_longitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_altitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_pdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_hdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_vdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixtype",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_correctionage",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_stationid",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_numsats",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixdatetime",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_h_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_v_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_positions",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_stddev",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "North_Carolina_Information_5503"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "TYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Notes",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_receiver",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_v_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_latitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_longitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_altitude",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_pdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_hdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_vdop",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixtype",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_correctionage",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_stationid",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_numsats",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_fixdatetime",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_h_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_v_rms",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_avg_positions",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "esrignss_h_stddev",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Field_Notes__Points__All_Sites_7990"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_RECEIVER",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_H_RMS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_V_RMS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_LATITUDE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_LONGITUDE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_ALTITUDE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_PDOP",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_HDOP",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_VDOP",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_FIXTYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_CORRECTIONAGE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_STATIONID",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_NUMSATS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_FIXDATETIME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_H_RMS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_V_RMS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_POSITIONS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_H_STDDEV",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Field_Captured_Data_All_Sites_8323"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Field_Captured_Data_All_Sites_4075"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Site_1009_Notes_6418"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_RECEIVER",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_H_RMS",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_V_RMS",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_LATITUDE",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_LONGITUDE",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_ALTITUDE",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_PDOP",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_HDOP",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_VDOP",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_FIXTYPE",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_CORRECTIONAGE",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_STATIONID",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_NUMSATS",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_FIXDATETIME",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_H_RMS",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_V_RMS",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_AVG_POSITIONS",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "ESRIGNSS_H_STDDEV",
+            "canPresetValue": false,
+            "isEditable": false,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Site_1009_Notes_7308"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Site_1009_Notes_8981"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Category",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Location",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Date",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Comments",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Proposed_Easement_Paths_1732"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "PROJECT_NUMBER",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Project_Locations_705"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": false,
+        "fieldInfos": [
+          {
+            "fieldName": "Merrel_Datasite",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "CENTERS_LLC_NAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "CENTERS_X",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "CENTERS_Y",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "CENTERS_DMS_X",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "CENTERS_DMS_Y",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "IC_Queue_Number",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Docket_Number",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Substation_Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "E911_Address",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "County",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "CENTERS_PROJECT_NUMBER",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Owner_Mailing_Address",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Owner_Contact_Number",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Owner_Email",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Zoning_Auth_Link",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Link_Live_Sites",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Status_SC",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Status_ZP",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Status_IN",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Status_ENV",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Status_TC",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Status_EPC",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Owner",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "NC_PROJECT_PARCLE_BOUNDARIES_FL_6949"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": false,
+        "fieldInfos": [
+          {
+            "fieldName": "PARNO",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ALTPARNO",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNNAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "IMPROVVAL",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LANDVAL",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARVAL",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MAILADD",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MUNIT",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MCITY",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MSTATE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MZIP",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SITEADD",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUNIT",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SCITY",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GISACRES",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STRUCT",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MULTISTRUC",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SALEDATE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SALEDATETX",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "LEGDECFULL",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARUSECODE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARUSEDESC",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARUSECD2",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARUSEDSC2",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PARVALTYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNTYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "RECAREANO",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "RECAREATX",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVISEDATE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCEREF",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCEDATE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCEDATX",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBDIVISIO",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NPARNO",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CNTYNAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "CNTYFIPS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STFIPS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STCNTYFIPS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GNISID",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCEAGNT",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TRANSFDATE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDPREF",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDRNO",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDSTNAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDSTR",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDSTSUF",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MADDSTTYP",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNFRST",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNLAST",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVDATETX",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REVISEYEAR",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDNO",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDPREF",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDSTNAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDSTR",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDSTSUF",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SADDSTTYP",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SSTATE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STNAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBOWNTYPE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUBSURFOWN",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SZIP",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STRUCTNO",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STRUCTYEAR",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNNAME2",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PRESENTVAL",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MAPREF",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PROJECT_NUMBER",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "Proposed_Easement_Paths_7004"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": false,
+        "fieldInfos": [
+          {
+            "fieldName": "PROJECT_NUMBER",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "NAME",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "BirdsEye_2134"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": false,
+        "fieldInfos": [
+          {
+            "fieldName": "Number",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Number_Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Lat",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Long",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Lat_POI",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Long_POI",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "QueueNumber",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "E911_Address",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "BirdsEye_8400"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": false,
+        "fieldInfos": [
+          {
+            "fieldName": "Number",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Number_Name",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Lat",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Long",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": false
+          },
+          {
+            "fieldName": "Lat_POI",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Long_POI",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "displayPromptOnSave": true,
+    "displayPromptOnDelete": false,
+    "removeOnSave": true,
+    "useFilterEditor": false,
+    "listenToGF": false,
+    "keepTemplateSelected": false,
+    "editGeometryDefault": true,
+    "autoSaveEdits": false,
+    "displayShapeSelector": true,
+    "displayPresetTop": false,
+    "editDescription": "Select a template to create features"
+  }
+}
