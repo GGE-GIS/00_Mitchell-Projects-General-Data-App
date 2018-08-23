@@ -1690,6 +1690,82 @@
             "visible": true
           }
         ]
+      },
+      {
+        "featureLayer": {
+          "id": "Homeland_Infrastructure_Foundation_Level_Data__HIFLD__4386"
+        },
+        "disableGeometryUpdate": false,
+        "allowUpdateOnly": false,
+        "allowDelete": false,
+        "fieldInfos": [
+          {
+            "fieldName": "ID",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "OWNER",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "STATUS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VOLTAGE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VOLT_CLASS",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "INFERRED",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUB_1",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUB_2",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "METHOD",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "DATE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SOURCE",
+            "canPresetValue": false,
+            "isEditable": true,
+            "visible": true
+          }
+        ]
       }
     ],
     "displayPromptOnSave": true,
